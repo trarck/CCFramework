@@ -1,0 +1,9 @@
+[submodule "yhge"]
+	path = yhge
+	url = git@github.com:trarck/yhge.git
+[submodule "yhgui"]
+	path = yhgui
+	url = git@github.com:trarck/yhgui.git
+[submodule "yhmvc"]
+	path = yhmvc
+	url = git@github.com:trarck/yhmvc.git
